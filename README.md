@@ -2,6 +2,7 @@
 >**A simple installer to restore missing content from TS2LC.**
 
 # **What is restored?**
+- Restores the Body Shop.
 - Restores the IKEA Stuff Pack.
 - Restores Music from the Radio.
 - Restores missing CAS items from the Happy Holidays Stuff Pack.
